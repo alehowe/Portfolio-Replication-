@@ -4,12 +4,11 @@ We take on the challenge of copying a black-box portfolio: we see only its perio
 
 
 - **Code Notebook**  
-  All implemented models and analysis are in this [Jupyter notebook]  
- (https://github.com/alehowe/Portfolio-Replication-/blob/main/Group2_Code.ipynb)
+  All implemented models and analysis are in this [Jupyter notebook](https://github.com/alehowe/Portfolio-Replication-/blob/main/Group2_Code.ipynb)
 
 - **Presentation Slides**  
   A self-contained slide deck summarizing the project can be found [here](https://github.com/alehowe/Portfolio-Replication-/blob/main/Group2_Presentation.pdf)
 
 - **Dataset**  
-  The weekly returns data used for the project are in this[excel file](https://github.com/alehowe/Portfolio-Replication-/blob/main/Group2_Dataset.xlsx)
+  The weekly returns data used for the project are in this [excel file](https://github.com/alehowe/Portfolio-Replication-/blob/main/Group2_Dataset.xlsx)
 
