@@ -1,6 +1,6 @@
 # Guidelines
 
-We take on the challenge of copying a black-box portfolio: we see only its periodic returns, not its actual holdings or weights. Using a wide range of liquid assets—stocks, bonds, ETFs, and futures and applying realistic limits on risk (1-month, 1% VaR) and trading costs (0.05% per trade), the project builds a synthetic portfolio whose returns match those of the hidden fund.
+We take on the challenge of copying a black-box portfolio: we see only its periodic returns, not its actual holdings or weights. Using a wide range of liquid assets—stocks, bonds, ETFs and futures and applying realistic limits on risk (1-month, 1% VaR) and trading costs (0.05% per trade), the project builds a synthetic portfolio whose returns match those of the hidden fund.
 
 
 - **Code Notebook**  
